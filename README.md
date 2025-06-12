@@ -1,4 +1,4 @@
 # litellm
 
-- [x] Forward OpenAI/vLLM service
-- [x] Add/Delete Model
+- [x] Forward openai/vllm service
+- [x] Add/Delete model
