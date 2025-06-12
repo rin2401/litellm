@@ -1,0 +1,9 @@
+model_list:
+  - model_name: DeepSeek-R1
+    litellm_params:
+      model: openai/deepseek-ai/DeepSeek-R1
+      api_base: https://api.together.xyz/v1
+      api_key: token-abc123
+
+general_settings:
+  master_key: token-abc123
